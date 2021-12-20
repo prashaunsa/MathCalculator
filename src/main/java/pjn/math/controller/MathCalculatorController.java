@@ -18,7 +18,7 @@ import pjn.math.util.Constants;
 
 
 
-@Path("/calculator")
+@Path("/rest")
 public class MathCalculatorController {
 	
 	private static Logger logger = LoggerFactory.getLogger(MathCalculatorController.class);
